@@ -18,8 +18,8 @@ import {
 
 export default function AppMenu() {
   return (
-    <>
+    <Menubar>
       <Logo />
-    </>
+    </Menubar>
   );
 }
